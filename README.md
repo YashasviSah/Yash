@@ -1,16 +1,16 @@
-Yash — Python Voice Assistant
+Yash/ Python Voice Assistant
 
 A desktop voice assistant built in Python that listens to spoken commands, converts them to text, and responds with synthesized speech. It can look things up, open apps and websites, play music, tell the time, crack jokes, and send emails — all hands-free.
 
 Features
-Speech in, speech out — captures microphone audio, converts it to text with Google Speech Recognition, and replies using text-to-speech.
-Wikipedia search — speaks a short summary of any topic.
-Web browsing — opens YouTube, Google, and other sites on command.
-App launching — opens local apps like Notepad, Spotify, and VS Code.
-Music playback — plays songs from a local folder or streams from YouTube via pywhatkit.
-Time queries — tells the current time.
-Jokes — delivers a random joke with pyjokes.
-Email — sends emails through Gmail's SMTP.
+Speech in, speech out, captures microphone audio, converts it to text with Google Speech Recognition, and replies using text-to-speech.
+Wikipedia search, speaks a short summary of any topic.
+Web browsing, opens YouTube, Google, and other sites on command.
+App launching, opens local apps like Notepad, Spotify, and VS Code.
+Music playback, plays songs from a local folder or streams from YouTube via pywhatkit.
+Time queries, tells the current time.
+Jokes, delivers a random joke with pyjokes.
+Email, sends emails through Gmail's SMTP.
 Time-based greeting — greets you with "Good morning/afternoon/evening" on startup.
 Tech stack
 Purpose	Library
